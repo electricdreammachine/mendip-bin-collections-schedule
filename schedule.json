@@ -313,18 +313,9 @@
       "type": "A"
     }
   ],
-  "types": [
-    {
-      "id": "A",
-      "description": "Recycling & Refuse"
-    },
-    {
-      "id": "B",
-      "description": "Recycling & Garden Waste"
-    },
-    {
-      "id": "C",
-      "description": "Recycling Only (Garden Waste Suspended)"
-    }
-  ]
+  "types": {
+    "A": "Recycling & Refuse",
+    "B": "Recycling & Garden Waste",
+    "C": "Recycling Only (Garden Waste Suspended)"
+  }
 }
